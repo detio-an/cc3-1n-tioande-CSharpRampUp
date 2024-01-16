@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpRampUp", "CsharpRampUp\CsharpRampUp.csproj", "{D7EA3FBE-33B2-4C78-803C-483BE8BB90CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7EA3FBE-33B2-4C78-803C-483BE8BB90CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7EA3FBE-33B2-4C78-803C-483BE8BB90CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7EA3FBE-33B2-4C78-803C-483BE8BB90CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7EA3FBE-33B2-4C78-803C-483BE8BB90CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AD2E8F9-D95A-445D-8899-AD3C2FCAA6EE}
+	EndGlobalSection
+EndGlobal
